@@ -1,0 +1,19 @@
+{
+    "name": "PLD_detection",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+    "start": "python PLD_3CLASS.py"
+    },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAT3A/PLD_detection.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+    "url": "https://github.com/SAT3A/PLD_detection/issues"
+    },
+    "homepage": "https://github.com/SAT3A/PLD_detection#readme"
+    
+}
