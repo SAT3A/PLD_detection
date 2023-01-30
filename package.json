@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-    "start": "python PLD_3CLASS.py"
+    "start": "PLD_3CLASS.py"
     },
     "repository": {
     "type": "git",
